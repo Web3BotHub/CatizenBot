@@ -1,5 +1,8 @@
-# CatizenBot
-🖱️ clicker for [https://t.me/catizenbot](https://t.me/catizenbot/gameapp?startapp=r_3132_9854954)
+# CatizenBot Catizen 自动合并机器人
+
+🖱️ clicker for [https://t.me/catizenbot](https://t.me/catizenbot/gameapp?startapp=r_1312_31262184)
+
+游戏地址：[https://t.me/catizenbot](https://t.me/catizenbot/gameapp?startapp=r_1312_31262184)
 
 ## Functionality
 | Functional                                                     | Supported |
